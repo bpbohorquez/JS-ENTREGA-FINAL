@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Disco",
+        "precio": 500
+    },
+    {
+        "nombre": "Camisa",
+        "precio": 800
+    },
+    {
+        "nombre": "Hoodie",
+        "precio": 1000
+    },
+    {
+        "nombre": "Shorts",
+        "precio": 700
+    }
+]
